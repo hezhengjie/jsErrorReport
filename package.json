@@ -1,0 +1,21 @@
+{
+  "name": "jsErrorReport",
+  "version": "1.0.0",
+  "description": "jsErrorReport",
+  "main": "src/jsErrorReport.js",
+  "repository": "git@github.com:hezhengjie/jsErrorReport.git",
+  "keywords": [
+    "js",
+    "error",
+    "report"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "hezhengjie",
+    "email": "727792893@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/hezhengjie/jsErrorReport/issues"
+  },
+  "homepage": "https://github.com/hezhengjie/jsErrorReport"
+}
