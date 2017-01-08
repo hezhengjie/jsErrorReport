@@ -4,11 +4,11 @@
 
 ##引入方式
 
-     $ npm install jsErrorReport --save //安装
+     $ npm install js-error-report --save //安装
 
-     require('jsErrorReport')
+     require('js-error-report')
      或者
-     import 'jsErrorReport';
+     import 'js-error-report';
 
 ##初始化
 在所有js的最开始进行初始化
