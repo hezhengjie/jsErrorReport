@@ -64,7 +64,7 @@
             s_ajaxListener.tempSend.apply(this, [_data]);
             this.onreadystatechange = function(){
                 if (this.readyState==4) {
-                    if (status >= 200 && status < 300) {
+                    if (this.status >= 200 && this.status < 300) {
                         return true;
                     }
                     else {
